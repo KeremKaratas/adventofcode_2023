@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "cwd": "${workspaceFolder}/day2",
+            "cwd": "${workspaceFolder}/day3",
             "purpose": ["debug-in-terminal"]
         }
     ]
